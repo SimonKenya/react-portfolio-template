@@ -1,6 +1,6 @@
 {
-  "name": "react-portfolio-template",
-  "version": "3.0",
+  "name": "K2euw.io",
+  "version": "1.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -33,5 +33,10 @@
   "devDependencies": {
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.6"
-  }
+  },
+  "description": "My Portfolio Website",
+  "main": "index.js",
+  "repository": "https://github.com/SimonKenya/react-portfolio-template.git",
+  "author": "Kitkatpapi",
+  "license": "MIT"
 }
