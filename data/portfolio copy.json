@@ -1,29 +1,29 @@
 {
   "name": "Chetan",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
+  "headerTaglineTwo": "I'm Simon Kinyanjui - curious",
   "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineFour": " based in Toronto, Canada.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/SimonKenya"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/thekinyanjuisimon/"
     },
     {
       "id": "3",
       "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "link": "https://twitter.com/thewaithaka"
     },
     { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "5", "title": "Email", "link": "mailto:k2euw.io@gmail.com" }
   ],
   "projects": [
     {
@@ -98,26 +98,26 @@
     "experiences": [
       {
         "id": "1",
-        "dates": "March 2022 - Present",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
+        "dates": "July 2024 - Present",
+        "type": "Training",
+        "position": "IBM Full stack javascript development",
         "bullets": [
           "Worked on the frontend of a React application",
-          "Worked on the frontend of a React application"
+          "Worked on the frontend of a React Native application"
         ]
       },
       {
         "id": "2",
-        "dates": "March 2020 - March 2022",
-        "type": "Full Time",
-        "position": "Frontend Engineer at X",
+        "dates": "April 2024 - July 202",
+        "type": "Training",
+        "position": "Python It Automation",
         "bullets": ["Worked on the frontend of a React application"]
       }
     ],
     "education": {
-      "universityName": "University X",
+      "universityName": "The University of Nairobi",
       "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityPara": "Economics"
     },
     "languages": ["Javascript", "HTML5", "CSS", "Python"],
     "frameworks": ["React", "Typescript", "NodeJs"],
